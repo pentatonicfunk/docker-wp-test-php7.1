@@ -1,4 +1,4 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/pentatonicfunk/wp-test-php7.1.5-phpunit.svg)](https://hub.docker.com/r/pentatonicfunk/wp-test-php7.1.5-phpunit/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/pentatonicfunk/wp-test-php7.1.15-phpunit.svg)](https://hub.docker.com/r/pentatonicfunk/wp-test-php7.1.15-phpunit/)
 
 ## Originally for wp plugin phpunit tests
 # Available packages

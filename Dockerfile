@@ -78,7 +78,7 @@ RUN phpbrew install 7.1.15 \
 RUN rm -rf $HOME/.phpbrew/build/*
 
 RUN cd $HOME && \
-#phpunit-6
+    #phpunit-6
     wget -O phpunit-6 https://phar.phpunit.de/phpunit-6.5.7.phar && \
     chmod +x phpunit-6
 
